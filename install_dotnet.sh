@@ -1,4 +1,4 @@
 #!/bin/bash
 
 mv ~/.bashrc ~/.bashrc.bak
-cp ./.bashrc ~/.bashrc
+cp dotnet/.bashrc ~/.bashrc
